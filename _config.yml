@@ -1,7 +1,7 @@
 name: renatolotfi
 favicon: null
-layout_spectrum: 0.23566033481620252
-typography_spectrum: 0.3438848154619336
+layout_spectrum: 0.19393
+typography_spectrum: 0.05181
 title: Portfólio Renato Lotfi
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
-  brandStrength: 0.75
-  lightness: 0.75
-  saturation: 0.75
-  rhythmicContrast: 0.25
+    - '#221e22'
+    - '#f6f7f8'
+    - '#6a7273'
+    - '#f5b330'
+    - '#00a4c9'
+  brandStrength: 0.5
+  lightness: 0.375
+  saturation: 0.5
+  rhythmicContrast: 0.75
 purpose: []
