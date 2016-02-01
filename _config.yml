@@ -1,0 +1,28 @@
+name: renatolotfi
+favicon: null
+layout_spectrum: 0.23566033481620252
+typography_spectrum: 0.3438848154619336
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.6400464766193181
+  lightness: 0.6412018174305558
+  saturation: 0.6355673323851079
+  rhythmicContrast: 0.7498842326458544
+purpose: []
