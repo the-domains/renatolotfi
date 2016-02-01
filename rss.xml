@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[renatolotfi]]></title>
+        <description><![CDATA[renatolotfi]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 01 Feb 2016 17:37:18 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[We Beer]]></title>
+            <description><![CDATA[<article><h1>We Beer</h1><p>A rede social para os amigos se juntarem para beber cerveja. Saiba quem está bebendo, quem quer beber, o que vão beber e aonde.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cab8a370491e2bfbc18dcba9a57813e994a4ea90.png"></article>]]></description>
+            <link>undefinedwe-beer/index.html</link>
+            <guid isPermaLink="false">12dc42d3-de5d-452d-8e6a-fa8eb01d29d8</guid>
+            <pubDate>Mon, 01 Feb 2016 17:37:03 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
